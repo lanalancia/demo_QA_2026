@@ -1,9 +1,14 @@
 This project made as a showcase of my knowledge and understanding of QA automation.
 
 
+
+
+
 **Prerequisites:**
 Windows
 Python 3.8+ (tested on 3.12.0)
+
+
 
 
 
@@ -12,9 +17,11 @@ run install.bat
 
 **Running:**
 run start.bat
-run specific Python script via python -m script.py
+run specific Python script like a module, via `python -m folder.folder.script`
 
 next scripts are ready to showcase: 
+
+
 
 
 
@@ -22,6 +29,8 @@ next scripts are ready to showcase:
 This project has multiple python scripts, that imitate various scenarios and test cases, based on my own experience
 
 all_tests.py - runs all tests that are ready to showcase
+
+
 
 
 
