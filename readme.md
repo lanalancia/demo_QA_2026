@@ -1,43 +1,31 @@
 This project made as a showcase of my knowledge and understanding of QA automation.
-
-
-
-
-
-**Prerequisites:**
-Windows
-Python 3.8+ (tested on 3.12.0)
-
-
-
-
-
+  
+  
+**Prerequisites:**  
+Windows  
+Python 3.8+ (tested on 3.12.0)  
+  
+  
 **Installation:**
 run install.bat
-
-**Running:**
-run start.bat
-run specific Python script like a module, via `python -m folder.folder.script`
-
-next scripts are ready to showcase: 
-
-
-
-
-
-**Content:**
-This project has multiple python scripts, that imitate various scenarios and test cases, based on my own experience
-
-all_tests.py - runs all tests that are ready to showcase
-
-
-
-
-
-**AI:** 
-Most code here here purposefully written manually, some with AI. The idea of this project is to show my skills. 
-Some skills are irrelevant and made by AI to save time. 
-Here's a list of "do not look at" files: 
-
-install.bat
-start.bat
+  
+  
+**Running:**  
+run start.bat  
+run python test.py  
+  
+next scripts are ready to showcase:  
+# TODO  
+  
+**Content:**  
+This project has multiple python scripts, that imitate various scenarios and test cases
+  
+all_tests.py - runs all tests that are ready to showcase  
+  
+  
+**AI:**  
+Most code here here purposefully written manually. This repo is a showcase of a QA automation skills and experience.  
+Here's things that aren't relevant and thus made by AI:  
+  
+install.bat  
+start.bat  

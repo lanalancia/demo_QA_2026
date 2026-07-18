@@ -12,7 +12,7 @@ class InputsPage:
 		self.page = page
 		self.number_input = (
 			page.get_by_text("Number", exact=True)
-			.locator("xpath=..")
+			.locator("..")
 			.locator("input[type='number']")
 		)
 
@@ -20,7 +20,8 @@ class InputsPage:
 		self.page.goto(self.URL)
 
 	def type_number(self, value: str):
-		self.number_input.fill(value)
+		self.number_input.click()
+		self.number_input.press_sequentially(value)
 
 	def get_value(self) -> str:
 		return self.number_input.input_value()
