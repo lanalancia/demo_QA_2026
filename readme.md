@@ -15,12 +15,11 @@ run start.bat
 run python test.py  
   
 next scripts are ready to showcase:  
-# TODO  
+* WIP
   
 **Content:**  
 This project has multiple python scripts, that imitate various scenarios and test cases
-  
-all_tests.py - runs all tests that are ready to showcase  
+* playwright_tests/ - tests made with Playwright tools
   
   
 **AI:**  
