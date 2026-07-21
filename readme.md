@@ -2,29 +2,27 @@ This project made as a showcase of my knowledge and understanding of QA automati
   
   
 **Prerequisites:**  
-Windows  
-Python 3.8+ (tested on 3.12.0)  
+* Windows  
+* Python 3.8+ (tested on 3.12.0)  
   
   
 **Installation:**
-run install.bat
+run `install.bat`
   
   
 **Running:**  
-run start.bat  
-run python test.py  
+run `start.bat` 
   
-next scripts are ready to showcase:  
-* WIP
+   
   
 **Content:**  
 This project has multiple python scripts, that imitate various scenarios and test cases
-* playwright_tests/ - tests made with Playwright tools
+* playwright_tests/ - tests made with Playwright tools  
   
   
 **AI:**  
 Most code here here purposefully written manually. This repo is a showcase of a QA automation skills and experience.  
-Here's things that aren't relevant and thus made by AI:  
+Some things aren't relevant and thus made by AI:  
   
-install.bat  
-start.bat  
+* install.bat  
+* start.bat  
